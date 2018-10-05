@@ -1,0 +1,4 @@
+Algoritmo
+miniespecificacion
+Diagrama de Flujo
+Codificacion
