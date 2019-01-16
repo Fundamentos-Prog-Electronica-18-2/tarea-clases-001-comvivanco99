@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547648390 source:c:\users\usuario\desktop\programacion 3er ciclo\2bimestre\semana6\eje2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
